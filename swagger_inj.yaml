@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: 1.0.0
   title: Fake Login Page
-  description: '<script>alert(1)</script>'
+  description: '<div>Test</div>'
 paths:
   /:
     post:
